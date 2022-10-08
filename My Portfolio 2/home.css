@@ -1,0 +1,211 @@
+
+
+body{
+    
+}
+
+
+h1{
+    font-size: 50px !important; 
+}
+
+h2{
+    font-size: 40px !important; 
+}
+
+#collapsibleNavId{
+    padding-left: 13%;
+}
+
+main .one{
+    width: 100%;
+    min-height: 550px;
+    background-color: #F9F9FF;
+}
+
+.one .row .col-md-6 .extra{
+    padding-top: 16%;
+    padding-left: 14%;
+}
+
+
+main .two{
+    width: 100%;
+    min-height: 420px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+
+.two .row .col-md-5 .extra{
+    padding-top: 6%;
+    padding-left: 10%;
+}
+
+
+
+main .three{
+    width: 100%;
+    min-height: 420px;
+    padding-top: 4%;
+    text-align: center;
+}
+
+main .three .extra{
+    width: 90%;
+    margin: auto;
+}
+
+main .three .extra .row{
+    margin-bottom: 4%;
+}
+
+main .three .extra .row i{
+    font-size: 50px;
+    padding-bottom: 2%;
+    cursor: pointer;
+}
+
+
+main .four{
+    width: 100%;
+    min-height: 225px;
+    background: #73A6FD;
+}
+
+main .four .extra{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    color: #F9F9FF;
+    padding-top: 6%;
+    
+}
+
+
+main .five{
+    width: 100%;
+    min-height: 1000px;
+    padding-top: 5%;
+    text-align: center;
+
+}
+
+main .five .extra{
+    width: 90%;
+    margin: auto;
+}
+
+main .five .extra button{
+    background-color: #FFFFFF;
+    border: #FFFFFF;
+    padding-right: 2%;
+}
+main .five .extra button{
+    color: #77A1FE;
+}
+
+main .five .extra .row .col-md-4 img{
+    width: 80%;
+    border-radius: 5%;
+}
+
+main .six{
+    width: 100%;
+    min-height: 450px;
+    padding-top: 5%;
+    text-align: center;
+    background: #F9F9FF;
+
+}
+
+
+main .six .extra{
+    width: 50%;
+    height: 200px;
+    margin: auto;
+}
+
+
+main .saven{
+    width: 100%;
+    min-height: 750px;
+    padding-top: 5%;
+    text-align: center;
+
+}
+
+main .saven .extra{
+width: 90%;
+min-height: 300px;
+margin: auto;
+background-color: #F9F9FF;
+padding-top: 5%;
+
+}
+main .saven .extra .col-md-3{
+    margin-bottom: 1%;
+    padding-top: 1%;
+    transition: 0.5s;
+}
+
+main .saven .extra .col-md-3:hover{
+    background-color: #73A6FD;
+}
+
+
+main .saven .extra .a{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 14px solid #E2E5FF;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 3%;
+}
+
+main .eight{
+    width: 100%;
+    min-height: 700px;
+    padding-top: 5%;
+    text-align: center;
+
+}
+
+
+main .eight .extra{
+    width: 90%;
+    min-height: 400px;
+    margin: auto;
+    padding-top: 2%;
+    cursor: pointer;
+}
+
+
+main .nine{
+    width: 100%;
+    min-height: 100px;
+    background: #6AB2FD;
+
+}
+
+
+footer{
+    width: 100%;
+    min-height: 400px;
+    background-color: #04091E;
+}
+
+footer .extra{
+    width: 90%;
+    min-height: 350px;
+    margin: auto;
+    color: #F9F9FF;
+    padding-top: 6%;
+}
+
+footer .extra i{
+    padding-right: 4%;
+}
+
+
